@@ -1,0 +1,9 @@
+[user]
+	email = ethan.painter@singlecomm.com
+  name = EthanTPainter
+
+[alias]
+  s = status -s
+  co = checkout
+  c = commit
+  a = add
