@@ -1,0 +1,50 @@
+{
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "synthwave84.brightness": ".4",
+    "editor.tabSize": 2,
+    "window.zoomLevel": 0,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "git.confirmSync": false,
+    "explorer.confirmDelete": false,
+    "breadcrumbs.enabled": true,
+    "window.menuBarVisibility": "default",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "terminal.integrated.rendererType": "dom",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "100",
+    "editor.minimap.maxColumn": 80,
+    "eslint.autoFixOnSave": true,
+    "html.format.endWithNewline": true,
+    "prettier.configPath": "./package.json",
+    "workbench.colorTheme": "SynthWave '84",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
