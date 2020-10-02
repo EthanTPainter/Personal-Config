@@ -1,2 +1,2 @@
 # Personal-Config
-Personal Configuration list
+Personal Configuration list and/or dot files
